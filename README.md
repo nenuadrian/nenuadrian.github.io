@@ -1,3 +1,3 @@
 # personal-github
 
-[![Deploy static content to Pages](https://github.com/nenuadrian/personal-github/actions/workflows/static.yml/badge.svg)](https://github.com/nenuadrian/personal-github/actions/workflows/static.yml)
+[![pages-build-deployment](https://github.com/nenuadrian/nenuadrian.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/nenuadrian/nenuadrian.github.io/actions/workflows/pages/pages-build-deployment)
